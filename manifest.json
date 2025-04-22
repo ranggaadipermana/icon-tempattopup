@@ -1,6 +1,6 @@
 {
-  "name": "TempatTopup",
-  "short_name": "T4topup",
+  "name": "ML Checker TempatTopup",
+  "short_name": "ML Checker",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
