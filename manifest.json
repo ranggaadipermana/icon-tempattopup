@@ -1,7 +1,7 @@
 {
   "name": "ML Checker TempatTopup",
   "short_name": "ML Checker",
-  "start_url": "/",
+  "start_url": "https://ml-checker.tempattopup.com",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
